@@ -1,5 +1,5 @@
 
-![banner](./github-banner.png)
+![banner](./profile-banner.png)
 
 # 👋 Hi, I'm Md. Takdirul Islam Rijan  
 ### Frontend Developer | MERN Stack Learner
