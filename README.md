@@ -1,31 +1,42 @@
 
+# 👋Hey! Nice to see you.
+Welcome to my profile!
+I'm Md. Takdirul Islam Rijan Frontend Developer from  Dhaka, Bangladesh.
+
+
+
+
+
+
 ![banner](./profile-banner.png)
 
-# 👋 Hi, I'm Md. Takdirul Islam Rijan  
-### Frontend Developer | MERN Stack Learner
+
+
+
+## About Me
+I am a dedicated frontend developer focused on building modern, responsive, and user-friendly web applications. I work mainly with JavaScript and React, and I’m currently strengthening my backend skills with Node.js, Express.js, and MongoDB to grow as a MERN developer.
 
 ---
 
-## 🚀 About Me
-I'm a passionate frontend developer and MERN stack learner from Dhaka, Bangladesh.  
-I love building modern, responsive, and user-friendly web applications.  
-Currently, I’m improving my React & Next.js skills and exploring backend development with Node.js and MongoDB.
+## What I'm Working On
+
+-  Building real-world MERN projects to strengthen full-stack skills  
+-  Recently carried out a **Utility Bill Management System** with full backend + database integration  
+-  Recently completed a **Kids Toy Store Platform** focusing on React authentication and protected routes  
+-  Improving state management, routing, and component architecture through hands-on React projects  
+-  Practicing advanced frontend UI/UX to build more polished interfaces  
+-  Exploring **JWT Authentication**, secure login flows, and session management  
+-  Learning Express.js and MongoDB to grow as a full MERN stack developer  
+-  Using Firebase for auth, hosting, and real-time features in small-scale projects  
+
 
 ---
 
-## 🔥 What I'm Working On
-- 🌱 Learning **Next.js** and building real-world projects  
-- 💻 Developing a full-stack **tourism website**  
-- 🚀 Practicing advanced **frontend UI/UX**  
-- 📚 Exploring **JWT Authentication** and Firebase services  
-
----
-
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
 ### **Backend**
@@ -47,7 +58,7 @@ Currently, I’m improving my React & Next.js skills and exploring backend devel
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Takdirul-Rijan&show_icons=true&theme=tokyonight" />
