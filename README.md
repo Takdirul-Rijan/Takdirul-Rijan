@@ -78,7 +78,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 
 ### 2️⃣ PlayNest
 **Overview:** A playful online marketplace for kids’ toys connecting families with local toy sellers.  
-**Live Demo:** [PlayNest](https://playnest.netlify.app/)  
+**Live Demo:** [PlayNest](https://toy-topia-app-47fde.web.app/)  
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Firebase Authentication, React Toastify, SweetAlert2, Netlify  
 
 **Key Features:**  
