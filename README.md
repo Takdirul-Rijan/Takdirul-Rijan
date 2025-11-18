@@ -1,5 +1,5 @@
-<!-- Banner -->
-![banner](https://chatgpt.com/s/m_691cb1255be081919935352d61fae93b)
+
+![banner](./github-banner.png)
 
 # 👋 Hi, I'm Md. Takdirul Islam Rijan  
 ### Frontend Developer | MERN Stack Learner
