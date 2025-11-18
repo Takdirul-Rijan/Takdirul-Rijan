@@ -75,7 +75,6 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 **How to Run Locally:**
 ```
 git clone https://github.com/Takdirul-Rijan/utility-bill-management-client.git
-
 cd SmartBillHub
 npm install
 npm run dev
@@ -94,7 +93,13 @@ npm run dev
 - Authentication, private routes, toy catalog, interactive feedback.  
 - Dependencies: React, Tailwind CSS, Firebase, React Toastify, SweetAlert2  
 
-
+**How to Run Locally:**
+```
+git clone https://github.com/Takdirul-Rijan/play-nest-app.git
+cd SmartBillHub
+npm install
+npm run dev
+```
 
 
 ---
@@ -110,6 +115,13 @@ npm run dev
 - Search, sorting, installation tracking, review chart.  
 - Dependencies: React, Tailwind CSS, Recharts, React Toastify  
 
+**How to Run Locally:**
+```
+git clone https://github.com/Takdirul-Rijan/hero-apps-production-application.git
+cd SmartBillHub
+npm install
+npm run dev
+```
  
 
 
