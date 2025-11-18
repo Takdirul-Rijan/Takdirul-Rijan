@@ -64,6 +64,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 ### 1️⃣ SmartBillHub
 **Overview:** Modern utility bill management system allowing users to view, manage, and pay monthly bills.  
 **Live Demo:** [SmartBillHub](https://smartbillhub.web.app/)  
+**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git) 
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB, jsPDF, Vercel  
 
 **Key Features:**  
@@ -71,15 +72,14 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 - Dynamic banner, CRUD operations, dark/light mode, private routes, PDF generation.  
 - Dependencies: React, Tailwind CSS, Firebase, jsPDF, Node.js, Express.js, MongoDB  
 
-
-**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git)  
-
-
 **How to Run Locally:**
+```
 git clone https://github.com/Takdirul-Rijan/utility-bill-management-client.git
+
 cd SmartBillHub
 npm install
 npm run dev
+```
 
 ---
 
