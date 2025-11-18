@@ -72,7 +72,14 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 - Dependencies: React, Tailwind CSS, Firebase, jsPDF, Node.js, Express.js, MongoDB  
 
 
-**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/SmartBillHub)  
+**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git)  
+
+
+**How to Run Locally:**
+git clone https://github.com/Takdirul-Rijan/utility-bill-management-client.git
+cd SmartBillHub
+npm install
+npm run dev
 
 ---
 
