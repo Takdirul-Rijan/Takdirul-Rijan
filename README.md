@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://avatars.githubusercontent.com/u/219455653?s=400&u=9dfc5cdb8237ad33f6b118b622e9bfecfc735c2f&v=4)
+![banner](https://chatgpt.com/s/m_691cb1255be081919935352d61fae93b)
 
 # 👋 Hi, I'm Md. Takdirul Islam Rijan  
 ### Frontend Developer | MERN Stack Learner
