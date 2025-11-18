@@ -1,5 +1,5 @@
 
-# 👋Hey! Nice to see you.
+# Hi there, it's a pleasure to see you.
 Welcome to my profile!
 I'm Md. Takdirul Islam Rijan Frontend Developer from  Dhaka, Bangladesh.
 
