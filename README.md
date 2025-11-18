@@ -2,7 +2,7 @@
 Welcome to my profile!  
 I'm **Md. Takdirul Islam Rijan**, a Frontend Developer from Dhaka, Bangladesh.
 
-![banner](./profile-banner.png)
+![banner](./banner.png)
 
 ---
 
