@@ -79,6 +79,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 ### 2️⃣ PlayNest
 **Overview:** A playful online marketplace for kids’ toys connecting families with local toy sellers.  
 **Live Demo:** [PlayNest](https://toy-topia-app-47fde.web.app/)  
+**GitHub Repo:** [PlayNest Repository](https://github.com/programming-hero-web-course2/b12-a9-firesheild-Takdirul-Rijan.git)  
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Firebase Authentication, React Toastify, SweetAlert2, Netlify  
 
 **Key Features:**  
@@ -87,7 +88,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 - Dependencies: React, Tailwind CSS, Firebase, React Toastify, SweetAlert2  
 
 
-**GitHub Repo:** [PlayNest Repository](https://github.com/Takdirul-Rijan/PlayNest)  
+
 
 ---
 
