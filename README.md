@@ -93,7 +93,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 
 ### 3️⃣ Apps Production Application
 **Overview:** A modern React-based web app showcasing trending mobile apps with search, sorting, installation tracking, and detailed statistics visualization.  
-**Live Demo:** [Apps Production Application](https://profound-moonbeam-9bda26.netlify.app/)  
+**Live Demo:** [Apps Production Application](snazzy-florentine-821908.netlify.app)  
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Recharts, React Toastify, Browser localStorage, Netlify/Vercel  
 
 **Key Features:**  
@@ -102,7 +102,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 - Dependencies: React, Tailwind CSS, Recharts, React Toastify  
 
  
-**GitHub Repo:** [Apps Production Repository](https://github.com/Takdirul-Rijan/Apps-Production)  
+**GitHub Repo:** [Apps Production Repository]( https://github.com/Takdirul-Rijan/hero-apps-production-application.git)  
 
 ---
 
