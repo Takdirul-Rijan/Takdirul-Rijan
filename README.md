@@ -48,7 +48,8 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 
 ## 🔗 Connect With Me
 - **GitHub:** [Takdirul-Rijan](https://github.com/Takdirul-Rijan)  
-- **Email:** takdirul.rijan@gmail.com  
+- **Email:** takdirul.rijan@gmail.com
+- **WhatsApp:** [+8801624375159](https://wa.me/8801624375159)
 - **Location:** Dhaka, Bangladesh  
 
 ---
@@ -67,7 +68,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 ### 1️⃣ SmartBillHub
 **Overview:** Modern utility bill management system allowing users to view, manage, and pay monthly bills.  
 **Live Demo:** [SmartBillHub](https://smartbillhub.web.app/)  
-**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git) 
+**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git))<br>
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB, jsPDF, Vercel  
 
 **Key Features:**  
@@ -78,7 +79,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 **How to Run Locally:**
 ```
 git clone https://github.com/Takdirul-Rijan/utility-bill-management-client.git
-cd SmartBillHub
+cd utility-bill-management-client
 npm install
 npm run dev
 ```
@@ -99,7 +100,7 @@ npm run dev
 **How to Run Locally:**
 ```
 git clone https://github.com/Takdirul-Rijan/play-nest-app.git
-cd SmartBillHub
+cd play-nest-app
 npm install
 npm run dev
 ```
@@ -121,7 +122,7 @@ npm run dev
 **How to Run Locally:**
 ```
 git clone https://github.com/Takdirul-Rijan/hero-apps-production-application.git
-cd SmartBillHub
+cd hero-apps-production-application
 npm install
 npm run dev
 ```
