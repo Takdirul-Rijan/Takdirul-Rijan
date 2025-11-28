@@ -10,18 +10,19 @@ I'm **Md. Takdirul Islam Rijan**, a Frontend Developer from Dhaka, Bangladesh.
 ---
 
 ## About Me
-I am a dedicated frontend developer focused on building modern, responsive, and user-friendly web applications. I work mainly with JavaScript and React, and I’m currently strengthening my backend skills with Node.js, Express.js, and MongoDB to grow as a MERN developer.
+I am a dedicated frontend developer focused on building modern, responsive, and user-friendly web applications. I work mainly with JavaScript, React and Next.js, and I’m currently strengthening my backend skills with Node.js, Express.js, and MongoDB to grow as a MERN developer.
 
 ---
 
 ## What I'm Working On
 
-- Building real-world MERN projects to strengthen full-stack skills  
-- Recently carried out a **Utility Bill Management System** with full backend + database integration  
-- Recently completed a **Kids Toy Store Platform** focusing on React authentication and protected routes  
+- Building real-world MERN projects to strengthen full-stack skills
+- Recently built a full-stack, responsive **E-Shop** with Next.js, NextAuth.js, and Express.js, featuring authentication and product management.
+- Developed a **Utility Bill Management System** with full backend + database integration  
+- Completed a **Kids Toy Store Platform** focusing on React authentication and protected routes  
 - Improving state management, routing, and component architecture through hands-on React projects  
 - Practicing advanced frontend UI/UX to build more polished interfaces  
-- Exploring **JWT Authentication**, secure login flows, and session management  
+- Exploring NextAuth.js, secure login flows, JWT, and session-based authentication 
 - Learning Express.js and MongoDB to grow as a full MERN stack developer  
 - Using Firebase for auth, hosting, and real-time features in small-scale projects  
 
@@ -30,9 +31,7 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 ## Skills & Technologies
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" /> </p>
 
 ### Backend
 <p>
@@ -46,29 +45,52 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 
 ---
 
-## 🔗 Connect With Me
-- **GitHub:** [Takdirul-Rijan](https://github.com/Takdirul-Rijan)  
-- **Email:** takdirul.rijan@gmail.com
-- **WhatsApp:** [+8801624375159](https://wa.me/8801624375159)
-- **Location:** Dhaka, Bangladesh  
 
----
-
-## GitHub Stats
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Takdirul-Rijan&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takdirul-Rijan&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ##  Pinned Projects
 
-### 1️⃣ SmartBillHub
+### 1️⃣ E-Shop — Modern E-Commerce Web Application
+
+**Overview:** Modern full-stack e-commerce application featuring public pages, authentication, protected routes, product management, and a polished UI.
+**Live Demo:** [E-Shop ](https://my-first-next-app-client.vercel.app/)<br>
+**GitHub Repo:** [E-Shop Repository – Client](https://github.com/Takdirul-Rijan/my-first-next-app-client.git))<br>
+**GitHub Repo:** [E-Shop Repository – Server](https://github.com/Takdirul-Rijan/my-first-next-app-server.git))
+
+**Technologies:** Next.js (App Router), React 19, Tailwind CSS, DaisyUI, NextAuth.js, Express.js, MongoDB, Axios, React Query, SweetAlert2, React Hot Toast, Swiper
+
+**Key Features:**
+
+- Fully responsive landing page with hero, highlights, and modern UI
+
+- Authentication: Google Login + Credentials Login with NextAuth.js
+
+- Protected routes: Add Product, Manage Products
+
+- Search bar, category filter, interactive product listing
+
+- Add Product page with form fields + toast confirmation
+
+- Manage Products page with view/delete functionality
+
+- Clean & consistent UI with animations, sticky navbar, and footer
+
+- Dependencies: Next.js, React, Tailwind CSS, DaisyUI, NextAuth.js, Express.js, MongoDB, Axios, React Query, SweetAlert2, React Hot Toast, Swiper
+
+**How to Run Locally:**
+```
+git clone https://github.com/Takdirul-Rijan/my-first-next-app-client.git
+cd my-first-next-app-client
+npm install
+npm run dev
+```
+
+---
+
+### 2️⃣ SmartBillHub
 **Overview:** Modern utility bill management system allowing users to view, manage, and pay monthly bills.  
 **Live Demo:** [SmartBillHub](https://smartbillhub.web.app/)  
-**GitHub Repo:** [SmartBillHub Repository](https://github.com/Takdirul-Rijan/utility-bill-management-client.git))<br>
+**GitHub Repo:** [SmartBillHub Repository - Client](https://github.com/Takdirul-Rijan/utility-bill-management-client.git))<br>
+**GitHub Repo:** [SmartBillHub Repository - Server](https://github.com/Takdirul-Rijan/utility-bill-management-server.git))<br>
 **Technologies:** React.js (Vite), React Router DOM, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB, jsPDF, Vercel  
 
 **Key Features:**  
@@ -86,7 +108,7 @@ npm run dev
 
 ---
 
-### 2️⃣ PlayNest
+### 3️⃣ PlayNest
 **Overview:** A playful online marketplace for kids’ toys connecting families with local toy sellers.  
 **Live Demo:** [PlayNest](https://toy-topia-app-47fde.web.app/)  
 **GitHub Repo:** [PlayNest Repository](https://github.com/Takdirul-Rijan/play-nest-app.git)  
@@ -108,7 +130,7 @@ npm run dev
 
 ---
 
-### 3️⃣ Apps Production Application
+### 4️⃣ Apps Production Application
 **Overview:** A modern React-based web app showcasing trending mobile apps with search, sorting, installation tracking, and detailed statistics visualization.  
 **Live Demo:** [Apps Production Application](https://snazzy-florentine-821908.netlify.app/)  
 **GitHub Repo:** [Apps Production Repository](https://github.com/Takdirul-Rijan/hero-apps-production-application.git)  
@@ -130,5 +152,12 @@ npm run dev
 
 
 ---
+
+## 🔗 Connect With Me
+- **GitHub:** [Takdirul-Rijan](https://github.com/Takdirul-Rijan)  
+- **Email:** takdirul.rijan@gmail.com
+- **WhatsApp:** [+8801624375159](https://wa.me/8801624375159)
+- **Location:** Dhaka, Bangladesh  
+
 
 
