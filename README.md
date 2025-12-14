@@ -49,9 +49,44 @@ I am a dedicated frontend developer focused on building modern, responsive, and 
 
 ##  Pinned Projects
 
-### 1️⃣ E-Shop — Modern E-Commerce Web Application
+### 1️⃣ BloodConnect — Blood Donation Management Platform 🩸
 
-**Overview:** Modern full-stack e-commerce application featuring public pages, authentication, protected routes, product management, and a polished UI.
+**Overview:** A full-featured MERN-based blood donation platform connecting donors, volunteers, and administrators through role-based dashboards, secure authentication, and a clean, responsive UI.<br>
+**Live Demo:** [BloodConnect](https://bloodconnect-c5814.web.app/)<br>
+**GitHub Repo:** [BloodConnect Repository – Client](https://github.com/Takdirul-Rijan/blood-donor-network-client))<br>
+**GitHub Repo:** [BloodConnect Repository – Server](https://github.com/Takdirul-Rijan/blood-donor-network-server))
+
+**Technologies:** React 19 (Vite), React Router v7, Tailwind CSS v4, DaisyUI, Firebase Authentication, TanStack React Query, Axios, Framer Motion, Recharts, jsPDF, Node.js, Express.js, MongoDB
+
+**Key Features:**
+
+- Role-based dashboards for Admin, Donor, and Volunteer
+- Secure authentication with Email & Password (Firebase Auth)
+- Admin controls: manage users, roles, requests, and platform statistics
+- Donor features: create, update, delete, and track donation requests
+- Volunteer access: view requests and update donation status only
+- Search donors by blood group, district, and upazila
+- Protected routes with reload-safe routing
+- Responsive dashboard with sidebar navigation
+- Charts & statistics for quick insights
+- Download donor search results as PDF
+- Animated UI with Framer Motion and SweetAlert confirmations
+- Fully responsive for mobile, tablet, and desktop
+
+
+**How to Run Locally:**
+```
+git clone https://github.com/Takdirul-Rijan/blood-donor-network-client.git
+cd blood-donor-network-client
+npm install
+npm run dev
+```
+
+---
+
+### 2️⃣ E-Shop — Modern E-Commerce Web Application
+
+**Overview:** Modern full-stack e-commerce application featuring public pages, authentication, protected routes, product management, and a polished UI. <br>
 **Live Demo:** [E-Shop ](https://my-first-next-app-client.vercel.app/)<br>
 **GitHub Repo:** [E-Shop Repository – Client](https://github.com/Takdirul-Rijan/my-first-next-app-client.git))<br>
 **GitHub Repo:** [E-Shop Repository – Server](https://github.com/Takdirul-Rijan/my-first-next-app-server.git))
@@ -86,7 +121,7 @@ npm run dev
 
 ---
 
-### 2️⃣ SmartBillHub
+### 3️⃣  SmartBillHub
 **Overview:** Modern utility bill management system allowing users to view, manage, and pay monthly bills.  
 **Live Demo:** [SmartBillHub](https://smartbillhub.web.app/)  
 **GitHub Repo:** [SmartBillHub Repository - Client](https://github.com/Takdirul-Rijan/utility-bill-management-client.git))<br>
@@ -108,7 +143,7 @@ npm run dev
 
 ---
 
-### 3️⃣ PlayNest
+### 4️⃣ PlayNest
 **Overview:** A playful online marketplace for kids’ toys connecting families with local toy sellers.  
 **Live Demo:** [PlayNest](https://toy-topia-app-47fde.web.app/)  
 **GitHub Repo:** [PlayNest Repository](https://github.com/Takdirul-Rijan/play-nest-app.git)  
@@ -130,7 +165,7 @@ npm run dev
 
 ---
 
-### 4️⃣ Apps Production Application
+### 5️⃣ Apps Production Application
 **Overview:** A modern React-based web app showcasing trending mobile apps with search, sorting, installation tracking, and detailed statistics visualization.  
 **Live Demo:** [Apps Production Application](https://snazzy-florentine-821908.netlify.app/)  
 **GitHub Repo:** [Apps Production Repository](https://github.com/Takdirul-Rijan/hero-apps-production-application.git)  
